@@ -1,6 +1,6 @@
 import java.net.SocketOption;
 
-public class ControleFluxo {
+public class ControleFluxoIfElse {
     //estruturas condicionais IF e ELSE
     public static void main(String[] args){
         //idade >15 categoria infantil
